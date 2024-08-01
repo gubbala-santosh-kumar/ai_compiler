@@ -2,3 +2,5 @@ streamlit
 google-generativeai
 google.generativeai
 gemini
+streamlit==1.24.1
+google-generativeai==0.1.0
